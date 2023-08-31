@@ -1,0 +1,17 @@
+Drivers of ADAS-fitted buses receive real-time safety alerts. AI-powered Advanced Driver Assistance Systems (ADAS) continuously monitors the road ahead and warns the driver a few seconds before a potential collision.
+ADAS Safety alerts and warnings to driver are given below:
+1. Forward Collision Warning (FCW)
+2. Pedestrian Collision Warning (PCW)
+3. Headway Monitoring and Warning (HMW)
+4. Lane Departure Warning (LDW)
+
+ADAS alerts provide real-time warnings and quick feedback to drivers. Such real-time warnings improve driver reaction time by up to 2X. Thus, irrespective of driving experience of the driver, driver alertness to road events improves and likelihood of dangerous road incidents reduces.
+
+Also, following driver monitoring alerts are included:
+1. No seat belt
+2. Smoking
+3. On phone
+4. Hard brake
+5. Drowsy
+6. Asleep
+7. Distracted
